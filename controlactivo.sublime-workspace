@@ -1,0 +1,620 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-width\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"apel",
+				"apellido_materno"
+			],
+			[
+				"a",
+				"attr"
+			],
+			[
+				"apellido",
+				"apellido_paterno"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"blo",
+				"inline-block\tdisplay"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"BACK",
+				"background-color\tproperty"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"btn_borrar_",
+				"btn_borrar_bloque"
+			],
+			[
+				"padding-",
+				"padding-left\tproperty"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"li",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/estadoregistros.js",
+			"settings":
+			{
+				"buffer_size": 75913,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config.php",
+			"settings":
+			{
+				"buffer_size": 792,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/controlactivo",
+		"/C/xampp/htdocs/controlactivo/css",
+		"/C/xampp/htdocs/controlactivo/js"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/controlactivo/js/config.js",
+		"/C/xampp/htdocs/controlactivo/js/tipoactivo.js",
+		"/C/xampp/htdocs/controlactivo/js/centrostrabajo.js",
+		"/C/xampp/htdocs/controlactivo/js/usuarios.js",
+		"/C/xampp/htdocs/controlactivo/js/ubicaciones.js",
+		"/C/xampp/htdocs/controlactivo/js/subgrupos.js",
+		"/C/xampp/htdocs/controlactivo/subgrupos.php",
+		"/C/xampp/htdocs/controlactivo/estadoregistros.php",
+		"/C/xampp/htdocs/controlactivo/js/estadoregistros.js",
+		"/C/xampp/htdocs/controlactivo/js/grupos.js",
+		"/C/xampp/htdocs/controlactivo/ajax_subgrupos.php",
+		"/C/xampp/htdocs/controlactivo/ajax_grupos.php",
+		"/C/xampp/htdocs/controlactivo/grupos.php",
+		"/C/xampp/htdocs/controlactivo/header.php",
+		"/C/xampp/htdocs/controlactivo/ajax_tipoactivo.php",
+		"/C/xampp/htdocs/controlactivo/ajax_centrostrabajo.php",
+		"/C/xampp/htdocs/controlactivo/ajax_usuarios.php",
+		"/C/xampp/htdocs/controlactivo/ajax_ubicaciones.php",
+		"/C/xampp/htdocs/controlactivo/ajax_estadoregistros.php",
+		"/C/xampp/htdocs/controlactivo/js/codigos_error.js",
+		"/C/xampp/htdocs/controlactivo/ubicaciones.php",
+		"/C/xampp/htdocs/controlactivo/tipoactivo.php",
+		"/C/xampp/htdocs/controlactivo/ubucaciones.php",
+		"/C/xampp/htdocs/controlactivo/centrostrabajo.php",
+		"/C/xampp/htdocs/controlactivo/usuarios.php",
+		"/C/xampp/htdocs/controlactivo/css/base.css",
+		"/C/xampp/htdocs/controlactivo/js/my_util.js",
+		"/C/xampp/htdocs/controlactivo/js/popover_msg.js",
+		"/C/xampp/htdocs/controlactivo/config.php",
+		"/C/xampp/htdocs/controlactivo/js/activo.js",
+		"/C/xampp/htdocs/controlactivo/activo.php",
+		"/C/xampp/htdocs/controlactivo/css/loader.css",
+		"/C/xampp/htdocs/controlactivo/js/loader.js",
+		"/C/xampp/htdocs/controlactivo/loader.php",
+		"/C/xampp/htdocs/controlactivo/login.php",
+		"/C/xampp/htdocs/controlactivo/css/mybase.scss",
+		"/C/xampp/htdocs/controlactivo/access.php",
+		"/C/xampp/htdocs/controlactivo/css/mybase.sass",
+		"/C/xampp/htdocs/controlactivo/ajax_header.php",
+		"/C/xampp/htdocs/controlactivo/js/header.js",
+		"/C/xampp/htdocs/controlactivo/index.php",
+		"/C/xampp/htdocs/controlactivo/index.html",
+		"/C/xampp/htdocs/controlactivo/test.php",
+		"/C/xampp/htdocs/controlactivo/php_mysql/db.php",
+		"/C/xampp/htdocs/controlactivo/access - copia.php",
+		"/C/xampp/htdocs/controlactivo/php_mysql/connection_data.php",
+		"/C/xampp/htdocs/controlactivo/config.xml",
+		"/C/xampp/htdocs/controlactivo/load_xml_values.php",
+		"/C/xampp/htdocs/controlactivo/js/body.js",
+		"/C/xampp/htdocs/controlactivo/generales.php",
+		"/C/xampp/htdocs/controlactivo/php/funciones_header.php",
+		"/C/xampp/htdocs/medidores/guardarConfiguracion.php",
+		"/C/xampp/htdocs/controlactivo/php_varias/generales.php",
+		"/C/xampp/htdocs/controlactivo/logout.php",
+		"/C/xampp/htdocs/medidores/inicio.php",
+		"/C/xampp/htdocs/controlactivo/php_mysql/config.php",
+		"/C/xampp/htdocs/controlactivo/connectdb.php",
+		"/C/xampp/htdocs/controlactivo/connectdb_open.php",
+		"/C/xampp/htdocs/controlactivo/connectdb_close.php",
+		"/C/xampp/htdocs/controlactivo/styles/base_login.css",
+		"/C/xampp/htdocs/controlactivo/styles/base.css",
+		"/C/xampp/htdocs/controlactivo/styles/main.css",
+		"/C/xampp/htdocs/controlactivo/js/login.js",
+		"/C/xampp/htdocs/controlactivo/activo2.php",
+		"/C/xampp/htdocs/controlactivo/validarLogin.php",
+		"/C/xampp/htdocs/controlactivo/inicio.php",
+		"/C/xampp/htdocs/medidores/login.php",
+		"/C/xampp/htdocs/controlactivo/login_.php",
+		"/C/xampp/htdocs/controlactivo/styles/login.css",
+		"/C/xampp/htdocs/controlactivo/index2.html",
+		"/C/xampp/htdocs/controlactivo/layout/header.php",
+		"/C/xampp/htdocs/medidores/header.php",
+		"/C/xampp/htdocs/medidores/access.php",
+		"/C/xampp/htdocs/medidores/validarLogin.php",
+		"/C/xampp/htdocs/controlactivo/Material/conectdb.php",
+		"/D/Users/jorge/Desktop/Mis Archivos/Control de Activo/controlactivo/activo.php",
+		"/C/xampp/htdocs/medidores/menu.php",
+		"/C/xampp/htdocs/medidores_v2/login.php",
+		"/C/xampp/htdocs/medidores_v2/inicio.php",
+		"/C/xampp/htdocs/medidores_v2/config.xml",
+		"/C/xampp/htdocs/medidores_v2/medidores.php",
+		"/C/xampp/htdocs/medidores_v2/access.php",
+		"/C/xampp/htdocs/medidores_v2/header.php",
+		"/C/xampp/htdocs/medidores_v2/js/menu.js",
+		"/C/xampp/htdocs/medidores_v2/access.php.backup20191009.php",
+		"/C/xampp/htdocs/medidores_v2/login.php.backup20191002",
+		"/C/xampp/htdocs/medidores_v2/login.php.backup20191008.php",
+		"/C/xampp/htdocs/medidores_v2/layout/header.php",
+		"/C/xampp/htdocs/medidores_v2/index.html",
+		"/C/xampp/htdocs/medidores_v2/layout/menu.php",
+		"/C/xampp/htdocs/medidores_v2/lista.php",
+		"/C/xampp/htdocs/medidores_v2/styles/lista.css",
+		"/C/xampp/htdocs/medidores_v2/js/my_useful.js",
+		"/C/xampp/htdocs/medidores_v2/lista.php.backup20191007.php",
+		"/C/xampp/htdocs/medidores_v2/styles/login.css",
+		"/D/Users/jorge/Desktop/Reglas del Despacho y Operacion del SEN.pdf",
+		"/C/xampp/htdocs/medidores_v2/images/logo_zotgm-trans.jpg",
+		"/C/xampp/htdocs/medidores_v2/js/login.js",
+		"/D/Users/jorge/GitRepo/Practica_xx-Tempus_Dominus_Bootstrap_4/css/tempusdominus-bootstrap-4.min.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Catálogo Tipo de Activo",
+			"Catálogo de Centro de Trabajo",
+			"Catálogo Centro de Trabajo",
+			"Tipo de Activo",
+			"Catálogo Tipo de Activo",
+			"Catálogo",
+			"Catálogo Subgrupo",
+			"Catálogo",
+			"Catálogo de Ubicaciones",
+			"Estado de",
+			"Estados de Registros",
+			"Catálogo de ",
+			"Tipo de Activo",
+			"Grupo",
+			"Tipo de Activo",
+			"Tipo d",
+			"Tipo A",
+			"cb_buscar_campo",
+			"cd_buscar_campo",
+			"cd_buscar_campo_grupo",
+			"www",
+			"ejecutarBuscarRegistrosAjax",
+			"buscar",
+			"ajax_ubicaciones",
+			"tipo_activo",
+			"ubicacion",
+			"grupo_",
+			"centro_trabajo_",
+			"ejecutarCrearEditarRegistroAjax",
+			"validarCampos",
+			"ubicacion_",
+			"centro_trabajo",
+			"c_centro_trabajo",
+			"c_ubicacion",
+			"centro_trabajo",
+			"centro_trabajo_id",
+			"ubicacion_id",
+			"c_centro_trabajo",
+			"c_ubicacion",
+			"tipo_activo_id",
+			"tipoactivo",
+			"grupo",
+			"tipo_activo",
+			"grupo",
+			"tipo_activo",
+			"c_tipo_activo",
+			"flex",
+			"editar",
+			"ejecutarBuscarRegistrosAjax",
+			"cargarUltimaBusquedaTableSorterAjax",
+			"checkbox_all_registers",
+			"lavel",
+			"label",
+			"lavel",
+			"ejecutarBuscarRegistrosAjax",
+			"ajax_tipoactivo",
+			"tipo_activo",
+			"c_tipo_activo",
+			"renglon_centro_trabajo_id",
+			"se_estado_registro_id",
+			"ejecutarCrearEditarRegistroAjax",
+			"centro_trabajo_id_default",
+			"CENTRO_TRABAJO",
+			"centro_trabajo_id_default",
+			"ejecutarCrearEditarRegistroAjax",
+			"validarCampos",
+			"duplicar",
+			"ejecutarBuscarRegistrosAjax",
+			"ejecutarCrearEditarRegistroAjax",
+			"busqueda_parametros",
+			"ejecutarBuscarRegistrosAjax",
+			"records_centro_trabajo",
+			"records_centros_trabajo",
+			"ejecutarBuscarRegistrosAjax",
+			"busqueda_parametros",
+			"centro_trabajo_nombre",
+			"tipoactivo",
+			"c_tipo_activo",
+			"tipo_activo",
+			"tipo_ac",
+			"c_tipo_activo",
+			"tipo_activo",
+			"tipoactivo",
+			"tipo_activo",
+			"c_tipo_activo",
+			"tipo_activo",
+			"table",
+			"validarCampos",
+			"ejecutarCrearEditarRegistroAjax",
+			"validarCampos",
+			"modal_label_msg",
+			"validarCampos",
+			"modal_label_msg",
+			"ejecutarCrearEditarRegistroAjax",
+			"color_distintivo_tipo_activo",
+			"initElements",
+			"cargarTodosTableSorterAjax",
+			"ejecutarBuscarRegistrosAjax",
+			"btn_buscar_base_datos",
+			"ejecutarBuscarRegistrosAjax",
+			"btn_buscar_base_datos_filtro",
+			"ejecutarBuscarRegistrosAjax",
+			"btn_buscar_base_datos",
+			"ejecutarBuscarRegistrosAjax",
+			"ejecutarCrearEditarRegistroAjax",
+			"th_indice",
+			"th_id",
+			"pintarPopoversSobreFiltrosTabla",
+			"retornar_ventana_despues_de_error",
+			"definirBotonDuplicarActualizar",
+			"ajax",
+			"showErrorMessages",
+			"checkbox_all_registers",
+			"each",
+			"btn_borrar_bloque_ejecutar",
+			"ejecutarBuscarRegistrosAjax",
+			"aler",
+			"tipo_activo",
+			"tipo_activo_id",
+			"click",
+			"cb_buscar_campo_id",
+			"ejecutarBuscarRegistrosAjax",
+			"cargarTodosTableSorterAjax",
+			"todos_registro",
+			"ejecutarBuscarRegistrosAjax",
+			"ejecutarBuscarRegistroAjax",
+			"ejecutarBorrarRegistrosAjax",
+			"rol"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Catálogo de Tipos de Activo",
+			"Cat. de Centros de Trabajo",
+			"Catálogo de Centro de Trabajo",
+			"Catálogo de Ubicaciones",
+			"Catálogo de Subgrupos",
+			"Cat. de Estado de",
+			"Estado de Registros",
+			"",
+			"de Estados de Registros",
+			"de Grupos",
+			"Grupo",
+			"ajax_subgrupos",
+			"grupo_",
+			"subgrupo_",
+			"grupo",
+			"c_grupo",
+			"c_subgrupo",
+			"grupo",
+			"grupo_id",
+			"subgrupo_id",
+			"c_grupo",
+			"c_subgrupo",
+			"grupo_id",
+			"grupos",
+			"grupo",
+			"c_grupo",
+			"label",
+			"ajax_estadoregistros",
+			"estado_registro",
+			"c_estado_registro",
+			"ubicaciones",
+			"ubicacion",
+			"c_ubicacion",
+			"ubicaciones",
+			"ubicacion",
+			"c_ubicacion",
+			"cargarUltimaBusquedaTableSorterAjax",
+			"centro_trabajo_id",
+			"reg_div_id_",
+			"$('#tb_fecha_registro_id').parent().parent().show();",
+			"popover_msg",
+			"setListaCamposSeleccionadosModal",
+			"centro_trabajo_id",
+			"c_centro_trabajo",
+			"Catálogo Centro de Trabajo",
+			"ajax_centrostrabajo.php",
+			"centro_trabajo_id",
+			"c_centro_trabajo",
+			"Catálogo de Usuarios",
+			"c_usuario",
+			"usuarios",
+			"form-control my_form-control",
+			"btn_duplicar_actualizar_",
+			"btn_duplicar_cascada_",
+			"btn_duplicar_cascada",
+			"modal_nuevo_edit_duplicar_borrar",
+			"btn_duplicar_cascada",
+			"btn_duplicar_cascada_cascada",
+			"modal_nuevo_edit_duplicar_borrar",
+			"help_enabled>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/estadoregistros.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 75913,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66782,
+								66782
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 24273.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								476
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "controlactivo.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

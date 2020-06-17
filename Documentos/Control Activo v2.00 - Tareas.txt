@@ -1,0 +1,47 @@
+
+*arreglar fechas de edit, que no se actualice, que se respete la fecha original
+
+
+
+2020-06-01
+
+* indicador de campos minimos requeridos
+* validacion de datos en los formularios para crear, editar y duplicar (campos minimos requeridos)
+* mensajes de error de datos en los formularios
+
+
+2020-05-29
+
+* al realizar operaciones de crear, editar, duplicar y borrar, seguir conservando filtrado de busqueda de la base de datos
+* boton de buscar todo en base de datos distinto a la busqueda de filtrado
+* cambio de colores en los titulos de los catalogos de acorde a su distintivo
+* arreglar nuilos en la recarga de la tabla (busqueda con ajax)
+
+
+2020-05-28
+
+* popovers sobre filtros y no sobre titulos de columnas (para poder poner popover sobre el checkbox de seleccionar todo)
+* colocar popover sobre el checkbox de seleccionar todos los registros para poner la nota de que solo selecciona y deselecciona los registros visibles (si hay paginado, solo pagina actual)
+* agregar botos de seleccionar/deseleccionar en el uso de filtros en buscar, sin borrar el contenido del filtro y asignar popovers a estos botones.
+
+
+2020-05-27
+
+* correccion de persistencia de ventanas de crear, edicion, duplicar despues de mensaje de error
+
+
+2020-05-26
+
+* correccion error seleccionar todos los registros. seleccionaba (checkbox) incluso los mostrados en otras paginas (no visibles a niver de programacion) 
+  en los catalogos de tipo_activo, centros de trabajo y usuarios
+* correccion error de busqueda en catalogo de usuarios
+* correccion error de busqueda en catalogo de centros de trabajo
+
+
+2020-05-25
+
+* cambiar span por div en los links de ver registro, para poder redondear los bordes
+* mostrar boton modal de busqueda en catalogos de tipo_activo, centros de trabajo y usuarios
+* colocar checkbox para habilitar o deshabilitar el filtradp por el campo, en la interfaz grafica y en el codigo javascript en catalogos de tipo_activo, centros de trabajo y usuarios
+* realizar funcion busqueda en ajax en catalogos de tipo_activo, centros de trabajo y usuarios
+
